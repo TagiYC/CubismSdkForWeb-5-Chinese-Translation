@@ -5,7 +5,9 @@
 本项目主要使用了机翻和部分个人翻译，翻译了部分代码中的注释、README 文档，仅供学习使用。
 翻译过程中可能存在疏漏或错误，如有发现，欢迎提出修改建议。
 
-原项目地址：[原项目GitHub地址] 
+原项目地址：
+[CubismWebFramework](https://github.com/Live2D/CubismWebFramework)
+[CubismWebSamples](https://github.com/Live2D/CubismWebSamples)
 
 ---
 
