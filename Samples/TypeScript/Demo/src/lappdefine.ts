@@ -48,10 +48,10 @@ export const PowerImageName = 'CloseNormal.png';
 // 将模型放置的目录名数组
 // 将目录名与 model3.json 的名称保持一致
 export const ModelDir: string[] = [
-  // 'Haru',
-  // 'Hiyori',
-  // 'Mark',
-  // 'Natori',
+  'Haru',
+  'Hiyori',
+  'Mark',
+  'Natori',
   'Rice',
   'Mao',
   'Wanko'
